@@ -1,9 +1,9 @@
-# Nombre Completo
+Elkin caicedo
 
-**Profesión / Cargo**  
-Ciudad, País  
-Correo electrónico: correo@ejemplo.com  
-Teléfono: +xx xxx xxx xxxx  
+**Ingeniero / Programador Junior **  
+Pasto, colombia  
+Correo electrónico: Elkin@ejemplo.com  
+Teléfono: +57 302
 [LinkedIn](https://linkedin.com/in/tuusuario) | [GitHub](https://github.com/tuusuario) | [Portfolio](https://tuportfolio.com)
 
 ---
